@@ -3,11 +3,11 @@
 <h1 align="center">📝 Atividade Prática – React 01: Props e Hooks</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/React-2023-blue?logo=react&style=for-the-badge" />
-<img src="https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Concluído-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-2023-purple?logo=react&style=for-the-badge" />
+<img src="https://img.shields.io/badge/TypeScript-4.x-purple?logo=typescript&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Vite-5.x-purple?logo=vite&style=for-the-badge" />
-<img src="https://img.shields.io/badge/ESLint-enabled-blueviolet?logo=eslint&style=for-the-badge" />
+<img src="https://img.shields.io/badge/ESLint-enabled-purple?logo=eslint&style=for-the-badge" />
 </p>
 
 ##
